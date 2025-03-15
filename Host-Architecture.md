@@ -3,5 +3,10 @@
   - Dell Rugged Notebook : Windows
   - Alienware R14 : Windows
   - Macbook Pro (2017) : Mac
-  - Trash Computer : Linux
+  - Trash Computer : Linux (Victim Server, will be pentested)
   - Deco Meshed Router : Push Syslog
+  - Server: Running ProxMox
+     - 4 nix VM's serving as Splunk Env
+  - NAS Storage
+  - TAK Server
+  - Engineering Server (Hosts Bambu, SolidWorks)
